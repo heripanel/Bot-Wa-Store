@@ -50,7 +50,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riychdwayne/Hinata-Md.git
+git clone https://github.com/heripanel/Bot-Wa-Store.git
 cd Hinata-Md
 pkg install yarn
 yarn
