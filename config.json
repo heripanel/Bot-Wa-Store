@@ -1,0 +1,24 @@
+{
+  "ownerNumber": ["6289514579847@s.whatsapp.net"],
+  "ownerName": ["Heri"],
+  "botName": "Heri Store",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://www.youtube.com/channel/heristore_",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/heristore_",
+  "kodeprem": "CT2022",
+  "sessionName": "session",
+  "pathimg": "./media/Anya.jpg",
+  "apikey": "Mrbotvip",
+  "apikeylol": "Anyabot212",
+  "gamewaktu": 60,
+  "limitCount": 50,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  },
+  "sticker": {
+        "packname": "Heri",
+        "author": "By Heri"
+    }
+}
